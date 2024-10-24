@@ -8,7 +8,7 @@
     "user_avatar": "user-default.png",
     "amount_gen": 250,
     "max_context": 2048,
-    "main_api": "textgenerationwebui",
+    "main_api": "openai",
     "world_info_settings": {
         "world_info": {
             "globalSelect": []
@@ -317,7 +317,8 @@
         "selectSamplers": {
             "forceHidden": [],
             "forceShown": []
-        }
+        },
+        "wi_key_input_plaintext": true
     },
     "extension_settings": {
         "apiUrl": "http://localhost:5100",
@@ -1228,7 +1229,7 @@
         "openrouter_sort_models": "alphabetically",
         "openrouter_providers": [],
         "jailbreak_system": false,
-        "chat_completion_source": "custom",
+        "chat_completion_source": "makersuite",
         "max_context_unlocked": true,
         "api_url_scale": "",
         "show_external_models": true,

@@ -1203,7 +1203,7 @@
         "groq_model": "llama3-70b-8192",
         "zerooneai_model": "yi-large",
         "custom_model": " gemini-1.5-pro-002 ",
-        "custom_url": "https://generativelanguage.googleapis.com/v1beta/models/",
+        "custom_url": "https://generativelanguage.googleapis.com/v1beta/models",
         "custom_include_body": "",
         "custom_exclude_body": "",
         "custom_include_headers": "",

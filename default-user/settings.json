@@ -125,7 +125,9 @@
         ],
         "logit_bias": [],
         "n": 1,
-        "server_urls": {},
+        "server_urls": {
+            "koboldcpp": "https://aiapi.dog/v1"
+        },
         "custom_model": "",
         "bypass_status_check": false,
         "rep_pen_size": 0

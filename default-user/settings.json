@@ -8,7 +8,7 @@
     "user_avatar": "user-default.png",
     "amount_gen": 250,
     "max_context": 2048,
-    "main_api": "openai",
+    "main_api": "textgenerationwebui",
     "world_info_settings": {
         "world_info": {
             "globalSelect": []
@@ -281,7 +281,7 @@
             {
                 "label": "koboldcpp",
                 "url": "https://aiapi.dog/v1",
-                "lastConnection": 1729779989568
+                "lastConnection": 1729780077612
             }
         ],
         "bogus_folders": false,

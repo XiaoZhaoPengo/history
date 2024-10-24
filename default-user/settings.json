@@ -1203,7 +1203,7 @@
         "groq_model": "llama3-70b-8192",
         "zerooneai_model": "yi-large",
         "custom_model": "claude-3-5-sonnet-20240620",
-        "custom_url": "https://aiapi.dog",
+        "custom_url": "https://aiapi.dog/v",
         "custom_include_body": "",
         "custom_exclude_body": "",
         "custom_include_headers": "",

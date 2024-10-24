@@ -1229,7 +1229,7 @@
         "openrouter_sort_models": "alphabetically",
         "openrouter_providers": [],
         "jailbreak_system": false,
-        "chat_completion_source": "makersuite",
+        "chat_completion_source": "openai",
         "max_context_unlocked": true,
         "api_url_scale": "",
         "show_external_models": true,

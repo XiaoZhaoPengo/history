@@ -276,7 +276,13 @@
         "custom_stopping_strings_macro": true,
         "fuzzy_search": true,
         "encode_tags": false,
-        "servers": [],
+        "servers": [
+            {
+                "label": "koboldcpp",
+                "url": "https://aiapi.dog/v1",
+                "lastConnection": 1729779989568
+            }
+        ],
         "bogus_folders": false,
         "zoomed_avatar_magnification": false,
         "show_tag_filters": false,
@@ -301,7 +307,7 @@
         "restore_user_input": true,
         "reduced_motion": false,
         "compact_input_area": true,
-        "auto_connect": false,
+        "auto_connect": true,
         "auto_load_chat": false,
         "forbid_external_media": true,
         "external_media_allowed_overrides": [],

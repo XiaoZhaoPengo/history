@@ -103,7 +103,7 @@
         "ignore_eos_token": false,
         "spaces_between_special_tokens": true,
         "speculative_ngram": false,
-        "type": "ooba",
+        "type": "koboldcpp",
         "mancer_model": "mytholite",
         "togetherai_model": "Gryphe/MythoMax-L2-13b",
         "infermaticai_model": "",

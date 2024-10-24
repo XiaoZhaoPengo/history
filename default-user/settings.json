@@ -1202,7 +1202,7 @@
         "perplexity_model": "llama-3-70b-instruct",
         "groq_model": "llama3-70b-8192",
         "zerooneai_model": "yi-large",
-        "custom_model": "",
+        "custom_model": " gemini-1.5-pro-002 ",
         "custom_url": "https://aistudio.google.com/app/prompts/new_chat",
         "custom_include_body": "",
         "custom_exclude_body": "",
